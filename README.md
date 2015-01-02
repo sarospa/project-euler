@@ -1,4 +1,4 @@
-project-euler
+project-euler-solutions
 =============
 
 This repository contains all of my answers to the programming problems found on Project Euler (projecteuler.net). Each solution is written in Java and is intended to be run from the command line. Some solutions may also require a text file as input. If so, this will be indicated as a comment in the source code of the solution. I will strive to make all solutions as general as possible, so any given solution should produce the correct answer if given a different input file. Depending on the complexity of the problem, solutions may also include comments explaining my approach to solving them.
